@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae36a286-8f73-41a5-a14d-679b410bc30c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lYpvYTxOOMFn6BWznHSjdpzGCg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GUI hello4" />
+  </component>
+  <component name="RunManager" selected="Python.try2">
+    <configuration name="try2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hello4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hello4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hello4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hello4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hello4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.try2" />
+        <item itemvalue="Python.try6" />
+        <item itemvalue="Python.try3" />
+        <item itemvalue="Python.try7" />
+        <item itemvalue="Python.try8" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae36a286-8f73-41a5-a14d-679b410bc30c" name="Default Changelist" comment="" />
+      <created>1607784109705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607784109705</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607864138948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607864138948" />
+    <state x="803" y="412" width="314" height="218" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1607926258419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="412" width="314" height="218" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607926258419" />
+    <state x="679" y="146" key="#try4" timestamp="1608384239876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="146" key="#try4/0.0.1920.1040@0.0.1920.1040" timestamp="1608384239876" />
+    <state x="679" y="146" key="#try5" timestamp="1608384255195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="146" key="#try5/0.0.1920.1040@0.0.1920.1040" timestamp="1608384255195" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1608648107909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608648107909" />
+    <state width="1921" height="273" key="GridCell.Tab.0.bottom" timestamp="1608648110259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608648110259" />
+    <state width="1921" height="273" key="GridCell.Tab.0.center" timestamp="1608648110259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608648110259" />
+    <state width="1921" height="273" key="GridCell.Tab.0.left" timestamp="1608648110259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608648110259" />
+    <state width="1921" height="273" key="GridCell.Tab.0.right" timestamp="1608648110259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608648110259" />
+    <state width="1921" height="292" key="GridCell.Tab.1.bottom" timestamp="1608627721982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="292" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608627721982" />
+    <state width="1921" height="292" key="GridCell.Tab.1.center" timestamp="1608627721982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="292" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608627721982" />
+    <state width="1921" height="292" key="GridCell.Tab.1.left" timestamp="1608627721982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="292" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608627721982" />
+    <state width="1921" height="292" key="GridCell.Tab.1.right" timestamp="1608627721982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="292" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608627721982" />
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1608646319869">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608646319869" />
+    <state x="601" y="246" width="700" height="530" key="recent.locations.popup" timestamp="1608648077176">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="246" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608648077176" />
+  </component>
+</project>
