@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17a29ba2-0ef9-47e6-8e22-c6754bc75663" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MXEINnOwkjKAawtEFr3C4cHirI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="RunManager" selected="Python.try4">
+    <configuration name="try1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python gfg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/carriage return" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/carriage return/try1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python gfg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/carriage return" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/carriage return/try2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python gfg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regex/try3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python gfg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regex/try4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python gfg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regex/try5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.try4" />
+        <item itemvalue="Python.try3" />
+        <item itemvalue="Python.try2 (1)" />
+        <item itemvalue="Python.try1 (1)" />
+        <item itemvalue="Python.try5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17a29ba2-0ef9-47e6-8e22-c6754bc75663" name="Default Changelist" comment="" />
+      <created>1677905445905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677905445905</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" width="816" height="730" key="#Intentions" timestamp="1679414840202">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" width="816" height="730" key="#Intentions/0.0.1920.1080@0.0.1920.1080" timestamp="1679414840202" />
+    <state x="709" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1677910350126">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="709" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1677910350126" />
+    <state x="803" y="430" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1678023224919">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="803" y="430" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1678023224919" />
+    <state width="1899" height="237" key="GridCell.Tab.0.bottom" timestamp="1679501774253">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1679501774253" />
+    <state width="1899" height="237" key="GridCell.Tab.0.center" timestamp="1679501774253">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="237" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1679501774253" />
+    <state width="1899" height="237" key="GridCell.Tab.0.left" timestamp="1679501774253">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="237" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1679501774253" />
+    <state width="1899" height="237" key="GridCell.Tab.0.right" timestamp="1679501774253">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="237" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1679501774253" />
+    <state width="1899" height="214" key="GridCell.Tab.1.bottom" timestamp="1679068677386">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="214" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1679068677386" />
+    <state width="1899" height="214" key="GridCell.Tab.1.center" timestamp="1679068677386">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="214" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1679068677386" />
+    <state width="1899" height="214" key="GridCell.Tab.1.left" timestamp="1679068677386">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="214" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1679068677386" />
+    <state width="1899" height="214" key="GridCell.Tab.1.right" timestamp="1679068677386">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="214" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1679068677386" />
+    <state x="871" y="249" key="SettingsEditor" timestamp="1679407459948">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="871" y="249" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1679407459948" />
+    <state x="867" y="127" width="985" height="828" key="dock-window-1" timestamp="1678022051517">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="867" y="127" width="985" height="828" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" timestamp="1678022051517" />
+    <state x="92" y="92" width="1736" height="896" key="dock-window-2" timestamp="1678022069686">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="dock-window-2/0.0.1920.1080@0.0.1920.1080" timestamp="1678022069686" />
+  </component>
+</project>
