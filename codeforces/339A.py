@@ -1,2 +1,1 @@
-s = input().split('+')
-print('+'.join(sorted(s)))
+print('+'.join(sorted(input().split('+'))))
